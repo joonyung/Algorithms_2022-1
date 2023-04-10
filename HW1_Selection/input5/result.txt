@@ -1,0 +1,2 @@
+Randomized-select : Correct
+Deterministic-select : Correct
